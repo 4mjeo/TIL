@@ -37,10 +37,10 @@ List<Member> result = em.createQuery(query, Member.class).getResultList();
 String username = "java";
 
 List<Member> result = queryFactory
-		.select(member)
-		.from(member)
-		.where(usernameEq(username))
-		.fetch();
+	.select(member)
+	.from(member)
+	.where(usernameEq(username))
+	.fetch();
 ```
 
 - 모든 쿼리에 대한 내용이 **함수형태**로 제공됨
