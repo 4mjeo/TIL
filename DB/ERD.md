@@ -4,7 +4,6 @@
 
 - 전체 업무 및 **데이터 구조 쉽게 파악** 가능
 - 업무의 **파악과 이해가 용이**
--
 
 ### **Entity**
 
@@ -25,17 +24,18 @@
 
 > **- 숫자**
 
-> - 정수 : `tinyint()` ,`smallint()` , `mediumint()`, `int()`, `bigint()`
-> - 실수 : `decimal()`, `double()`, `float()`
+- 정수 : `tinyint()` ,`smallint()` , `mediumint()`, `int()`, `bigint()`
+- 실수 : `decimal()`, `double()`, `float()`
 
-> **- 문자 -** `varchar()` : various character의 약자
-> **-** `char()`
+**- 문자 -** `varchar()` : various character의 약자
+**-** `char()`
 
-> **- 날짜, 시간**
+**- 날짜, 시간**
 
-> - `date()` : 1000-01-01 ~ 9999-12-31
->   **-** `datetime()` : 1000-01-01 00:00:00.000000 ~ 9999-12-31 23:59:59.999999
-> - `timestamp()` : `datetime()` + `timezone`
+- `date()` : 1000-01-01 ~ 9999-12-31
+  **-** `datetime()` : 1000-01-01 00:00:00.000000 ~ 9999-12-31 23:59:59.999999
+- `timestamp()` : `datetime()` + `timezone`
+  >
 
 ### Relationship
 
@@ -61,7 +61,7 @@
 
 1. **ERD 관계 표기법**
 
-![erd표기법](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e87604a-a288-4489-9cda-54fe982300d1/Untitled.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e87604a-a288-4489-9cda-54fe982300d1/Untitled.png)
 
 1. **1:1 식별관계**
 
