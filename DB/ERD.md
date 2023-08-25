@@ -61,7 +61,7 @@
 
 1. **ERD 관계 표기법**
 
-![Untitled](https://www.notion.so/ERD-33dd9815c4164b1e99258390847bbe49?pvs=4#f5c5ab2cdbb54209b5ee0e5f333f67f4)
+![img](https://github.com/4mjeo/TIL/assets/129156398/768c45b5-4dae-4359-adc5-40154d63348e)
 
 1. **1:1 식별관계**
 
