@@ -4,7 +4,7 @@
 
 ---
 
-- **버전 관리 시스템(Versoin Control System)**의 하나
+**버전 관리 시스템(Versoin Control System)**의 하나
 
 버전을 관리할 수 있는 수단, 수정 사항이나 업데이트 사항 등을 바로 반영 가능하게 하는 시스템
 
