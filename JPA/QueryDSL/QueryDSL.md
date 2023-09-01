@@ -8,7 +8,7 @@
 
 ---
 
-자바 백엔드 기술은 Spring Boot와 Spring Date JPA를 함께 사용함
+자바 백엔드 기술은 Spring Boot와 Spring Data JPA를 함께 사용함
 
 → **하지만** 복잡한 쿼리, 동적 쿼리를 구현하는데 있어 한계 → 이러한 문제해결 **QueryDSL**
 
