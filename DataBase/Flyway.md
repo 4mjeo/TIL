@@ -1,4 +1,4 @@
-# Flyway (Spring Boo)
+# Flyway (Spring Boot)
 
 ### 형상관리란?
 
